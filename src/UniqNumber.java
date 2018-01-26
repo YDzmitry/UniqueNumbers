@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 
-public class UniqNumbers {
+public class UniqNumber {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File("INPUT.TXT"));
         PrintWriter pw = new PrintWriter(new File("OUTPUT.TXT"));
